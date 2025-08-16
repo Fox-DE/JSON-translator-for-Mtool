@@ -1,0 +1,14 @@
+{
+    "api_endpoint": "http://localhost:11434/v1/chat/completions",
+    "api_key": "",
+    "model": "hoangquan456/qwen3-nothink:8b",
+    "source_language": "Japanese",
+    "target_language": "Chinese",
+    "max_retries": 3,
+    "retry_delay": 2,
+    "request_timeout": 60,
+    "batch_size": 60,
+    "save_interval": 10,
+    "api_type": "openai"
+}
+
